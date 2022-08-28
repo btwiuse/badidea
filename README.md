@@ -1,7 +1,7 @@
 <p>
-<a href="https://godoc.org/github.com/thetirefire/badidea"><img src="https://godoc.org/github.com/thetirefire/badidea?status.svg"></a>
-<a href="https://pkg.go.dev/thetirefire/badidea"><img src="https://pkg.go.dev/badge/thetirefire/badidea" alt="PkgGoDev"></a>
-<a href="https://goreportcard.com/report/github.com/thetirefire/badidea"><img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/thetirefire/badidea" /></a>
+<a href="https://godoc.org/github.com/btwiuse/badidea"><img src="https://godoc.org/github.com/btwiuse/badidea?status.svg"></a>
+<a href="https://pkg.go.dev/btwiuse/badidea"><img src="https://pkg.go.dev/badge/btwiuse/badidea" alt="PkgGoDev"></a>
+<a href="https://goreportcard.com/report/github.com/btwiuse/badidea"><img alt="Go Report Card" src="https://goreportcard.com/badge/github.com/btwiuse/badidea" /></a>
 </p>
 
 # badidea

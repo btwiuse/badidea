@@ -23,7 +23,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/thetirefire/badidea/controllers/crdregistration"
+	"github.com/btwiuse/badidea/controllers/crdregistration"
 	apiextensionsapiserver "k8s.io/apiextensions-apiserver/pkg/apiserver"
 	apiextensionsinformers "k8s.io/apiextensions-apiserver/pkg/client/informers/externalversions"
 	apiextensionsopenapi "k8s.io/apiextensions-apiserver/pkg/generated/openapi"

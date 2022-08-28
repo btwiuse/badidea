@@ -1,4 +1,4 @@
-module github.com/thetirefire/badidea
+module github.com/btwiuse/badidea
 
 go 1.19
 

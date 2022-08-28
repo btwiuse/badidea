@@ -15,7 +15,7 @@ package cmd
 
 import (
 	"github.com/spf13/cobra"
-	"github.com/thetirefire/badidea/server"
+	"github.com/btwiuse/badidea/server"
 	genericapiserver "k8s.io/apiserver/pkg/server"
 	"k8s.io/component-base/logs"
 	"k8s.io/klog"

@@ -14,7 +14,7 @@ limitations under the License.
 package server
 
 import (
-	"github.com/thetirefire/badidea/apiserver"
+	"github.com/btwiuse/badidea/apiserver"
 )
 
 // RunBadIdeaServer starts a new BadIdeaServer.
